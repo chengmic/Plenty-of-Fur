@@ -1,4 +1,4 @@
-# Plenty of Fur
+# Plenty of Fur Prototype
 
 <img src="https://github.com/chengmic/Plenty-of-Fur/assets/97090779/37cb02eb-0310-4d0c-9fad-51e5266b7a1e" alt="plentyoffur" width="700">
 
